@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Below are the **Life Skills** I have learned
+
+## On the job skills:
+- *Patience*
+- *Leadership*
+- *Determination*
+
+## Personal:
+- *Love*
+- *Friendship*
+- *Trust*
